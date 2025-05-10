@@ -51,4 +51,22 @@ export default tseslint.config({
     ...reactDom.configs.recommended.rules,
   },
 })
+
+
 ```
+Tournament based website  Game Tournament Registration
+
+Features
+    -account management: sign up, login, profile, deleteing account
+        -two types of accounts
+            -player
+            -event manager
+
+    -event management: event creation, editing event, deleting/end event
+        -bracket: winners, losers
+
+    -team management: creation, editing, ending
+
+    -ribbion: home, team, event, profile, settings
+
+    -leaderboard(optional)
