@@ -62,10 +62,10 @@ Features
             -player
             -event manager
 
-    -event management: event creation, editing event, deleting/end event
+    -event management: event creation, editing event, deleting/end event, randomizing
         -bracket: winners, losers
 
-    -team management: creation, editing, ending
+    -team management: creation, editing, inviting, ending
 
     -ribbion: home, team, event, profile, settings
 
