@@ -13,7 +13,7 @@ app.use(express.json())
 //connects the mongoDB atlas to the backend
 
 //unsure which database it is connected too, might make a new database
-mongoose.connect('mongodb+srv://admin:admin@opensourceghw.d8d8rxl.mongodb.net/',{
+mongoose.connect('<insert mongoDB connection link>',{
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
