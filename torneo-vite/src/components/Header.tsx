@@ -5,7 +5,7 @@ export default function Header() {
       <div className="flex items-center gap-2">
         <button className="text-2xl text-orange-400">
           <img 
-            src="../../public/logo.png"
+            src="/logo.png"
             alt="Home"
             className="h-full w-full object-contain"
             />
