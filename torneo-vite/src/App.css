@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@theme {
+  --color-csCyan: #0699AB;
+  --color-csOrange: #FD9739;
+  --color-csCream: #F4F4ED;
+}
